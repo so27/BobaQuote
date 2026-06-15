@@ -88,4 +88,4 @@ MIT License · © 2026 Sven Owsianowski
 
 ## Video
 
-[![BobaQuote – Videovorstellung](preview.jpg)](https://vimeo.com/1201365780)
+[![BobaQuote – Videovorstellung](bobaquote-titel.jpg)](https://vimeo.com/1201365780)
