@@ -1,5 +1,7 @@
 # BobaQuote
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue) ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white) ![Privacy](https://img.shields.io/badge/privacy-first-green) ![No Tracking](https://img.shields.io/badge/tracking-none-brightgreen)
+
 **BobaQuote** is a graphic quotation generator built as a standalone web application.
 
 The system was originally developed as part of the flat-file CMS and blog system [Bobaro](https://www.bobaro.de) and has been released as an independent web application.
