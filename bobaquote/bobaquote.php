@@ -5,6 +5,7 @@
  * Entwickler:        Sven Owsianowski
  * Entwicklerprofil:  https://bobaro.de/page.php?p=ueber-den-entwickler
  * Entwickelt für:    Bobaro – Bloggen ohne Ballast | www.bobaro.de
+ * Vorschau:          https://zitat.bobaro.de
  * Jahr:              2026
  */
 
@@ -15,7 +16,7 @@ define('GALERIE_LIST_URL',  'https://bobaro.de/updates/bobaquote_img/list.php');
 define('GALERIE_BILDER_URL', 'https://bobaro.de/updates/bobaquote_img/');
 // ============================================================
 
-// Proxy: Browser ruft ?proxy=list auf → PHP holt Liste von bobarox
+// Proxy: Browser ruft ?proxy=list auf → PHP holt Liste von bobaro
 if (isset($_GET['proxy']) && $_GET['proxy'] === 'list') {
   $data = @file_get_contents(GALERIE_LIST_URL);
   header('Content-Type: application/json');
