@@ -83,3 +83,9 @@ Part of [Bobaro – Bloggen ohne Ballast](https://www.bobaro.de)
 ## License
 
 MIT License · © 2026 Sven Owsianowski
+
+---
+
+## Video
+
+[![BobaQuote – Videovorstellung](preview.jpg)](https://vimeo.com/1201365780)
