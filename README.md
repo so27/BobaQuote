@@ -3,6 +3,7 @@
 
 🇬🇧 **English** | 🇩🇪 [Deutsch](#deutsch)
 
+![BobaQuote - Webinterface](bobaro-editor-interface.jpg)
 ---
 
 ## 🇬🇧 English
