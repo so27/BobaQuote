@@ -85,6 +85,12 @@ MIT License · © 2026 Sven Owsianowski
 [![BobaQuote – Videovorstellung](bobaquote-titel.jpg)](https://vimeo.com/1201365780)
 
 ---
+
+### New Favicon
+![BobaQuote - Favicon Juli 2026](bobaquote/favicon.png)
+
+The favicon was updated in July 2026.
+---
 ---
 
 ## 🇩🇪 Deutsch
@@ -164,3 +170,10 @@ MIT-Lizenz · © 2026 Sven Owsianowski
 
 ### Video
 [![BobaQuote – Videovorstellung](bobaquote-titel.jpg)](https://vimeo.com/1201365780)``
+
+---
+
+### Neues Favicon
+![BobaQuote - Favicon Juli 2026](bobaquote/favicon.png)
+
+Das Favicon wurde im Juli 2026 erneuert.
