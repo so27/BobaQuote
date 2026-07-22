@@ -78,8 +78,8 @@ if (is_file($zitateDatei)) {
   Entwickler:        Sven Owsianowski
   Website:           Bobaro.de
   Entwicklerprofil:  https://wattblicker.notion.site
-  Datum:             Juni 2026
-  Version:           1.0
+  Datum:             Juli 2026
+  Version:           1.1
   ------------------------------------------------------------
 -->
 <html lang="de" data-theme="dark">
